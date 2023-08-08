@@ -1,0 +1,110 @@
+body{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+header{
+  height: 2vw;
+  background: var(--s-gradient-2, linear-gradient(229deg, #0047FF 0%, #00BCD4 100%));
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
+.head{
+ font-size: 1.3vw;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold
+}
+.SOLANA{
+  background-color: black;
+  height: 3vw;
+  display: flex;
+  align-items: center;
+}
+.imgTop{
+  margin-left: 20vw;
+  height: 1.5vw;
+}
+.Learn{
+  margin-left:25vw;
+  color: #848895;
+  text-decoration: none;
+  font-size: 1.5vw;
+}
+.pp{
+  font-size: 1.5vw;
+}
+.Build, .Network, .Community{
+  margin-left: 3vw;
+  color: #848895;
+  text-decoration: none;
+  font-size: 1.5vw;
+}
+.img2, .img3, .img4 ,.img5 ,.img6, .img7, .img8{
+  height:1.9vw ;
+  display: flex;
+ }
+.UP{
+  height: 35vw;
+  background-color: black;
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: 'Roboto', sans-serif;
+}
+.h1{
+  margin: 0;
+  font-size: 4vw;
+}
+.button1{
+  width: 12vw;
+  height: 3vw;
+  color: white;
+  background:var(--s-button, linear-gradient(152deg, #8C01FA 0%, #000 100%));
+  border-radius: 5vw;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1vw;
+  border: none;
+  margin-right: 1vw;
+  margin-top: 2.5vw;
+}
+.button2{
+  width: 12vw;
+  height: 3.5vw;
+  color: white;
+  background-color: black;
+  border: 0.1vw solid white;
+  border-radius: 5vw;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1vw;
+  margin-top: 2.5vw;
+}
+.WEB1{
+  height: 5vw;
+  background-color:black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.p{
+  margin: 0;
+  color: #618ADC;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  font-size: 1vw;
+}
+.WEB2{
+  height: 9vw;
+  background-color:black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2vw;
+}
+

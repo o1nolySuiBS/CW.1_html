@@ -1,0 +1,127 @@
+.pop{
+  border-left:10vw ;
+  border-right:10vw ;
+  border-top:10vw ;
+  background-color: black;
+  display: flex;
+  height: 5vw;
+  text-decoration: none;
+  font-size: 1vw;
+  padding-right: 5vw;
+}
+.pip{
+  height:10vw;
+  background-color: black;
+  text-decoration: none;
+  font-size: 1vw;
+}
+.pup{
+  margin:0;
+  color:#FFF;
+  font-size:3vw;
+  padding-left:12vw;
+  height: 5vw;
+  text-decoration: none;
+}
+.Vectra{
+  margin-left: 19vw;
+  background-color: black;
+  color: white;
+  width: 6vw;
+  height: 3vw;
+  border-radius: 1vw;
+  border: 0.1vw solid #A962FF;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  font-size: 1vw;
+}
+.Astra, .Kadett, .Corsa, .Insignia{
+  margin-left: 2.5vw;
+  width: 4vw;
+  height: 2.5vw;
+  background-color: black;
+  color: #ffffff;
+  border: none;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  font-size: 1vw;
+}
+.golova{
+ height: 26.5vw;
+  background-color: #1a1714;
+  display: flex;
+  text-decoration: none;
+}
+
+.IMG1{
+  margin-left: 12vw;
+  height: 27vw;
+  text-decoration: none;
+  display: flex;
+}
+
+.IMG2{
+  padding-left: 2vw;
+  padding-top: 5vw;
+  text-decoration: none;
+  display: flex;
+  height: 5vw;
+  width: 15vw;
+}
+.Footer{
+  display: flex;
+  flex-direction: column;
+  height: 5vw;
+  width: 20vw;
+ }
+.Footer{
+  color: white;
+  padding-left: 2vw;
+  font-family: 'Roboto', sans-serif;
+  height: 7vw;
+  width: 30vw;
+  font-size: 1vw;
+}
+.Footer1{
+  color: #A962FF;
+  margin-top: 0;
+  padding-left: 2vw;
+
+  font-size: 1vw;
+}
+.ICON{
+  height: 10vw;
+  background-color: #000000;
+  display: flex;
+}
+.nigg{
+  width: 80vw;
+  margin-left: 10vw;
+  background-color: #000000;
+  height: 3vw;
+  justify-content: space-around;
+  display: flex;
+  padding-top: 3vw;
+}
+.b1{
+  background-color:black;
+  height:1vw;
+}
+.p1_3{
+  font-size:3vw;
+  margin: 0;
+  color: white;
+  padding-left: 20vw;
+  padding-top: 8vw
+}
+.nigg1,.nigg2,.nigg3,.nigg4, .IMG2{
+  display: flex;
+}
+.b1{
+  margin: 0;
+  height: 10vw;
+}
+.none{
+  width: 33vw;
+  background-color: black;
+}
